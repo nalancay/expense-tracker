@@ -3,6 +3,10 @@
 You can enter the application at the following url:
 Open [https://nalancay-expense-tracker.netlify.app/](https://nalancay-expense-tracker.netlify.app/)
 
+### `default user for test: `
+### `User: test@gmail.com`
+ ### `Password: react123`
+
 # Technical project for expense tracking
 
 This application allows you to manage expenses according to categories, where each user can register and log in. It will also allow you to graphically display the total expenses according to the categories and the general total..
